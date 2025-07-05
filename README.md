@@ -90,6 +90,8 @@ Educational agent that helps users understand real estate investment and guides 
 ### 🎨 Uplifta.ai – AI Virtual Staging Platform  
 Automated staging using AI-generated room makeovers with Leonardo AI.
 
+![uplift-preview](https://github.com/user-attachments/assets/c1f18730-9c1a-4625-a8f2-2df815cd8792)
+
 ### 📊 Traffic Sentiment Classifier  
 Scaled ML-based classifier to label traffic intent at 1M+/day volume.
 
