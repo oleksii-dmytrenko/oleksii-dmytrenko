@@ -16,9 +16,9 @@ I'm a builder. Over 10 years of experience turning ideas into scalable software,
 ## ⚡ Current Focus
 
 - Building AI Agents with LangChain & LLMs  
-- AI-powered real estate tools  
+- AI-powered custom solutions
 - Workflow automation & educational bots  
-- RAG pipelines & Diffusion models
+- RAG pipelines & Contex design
 
 ---
 
