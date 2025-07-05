@@ -83,6 +83,7 @@ I'm a builder. Over 10 years of experience turning ideas into scalable software,
 
 ### 🧠 Flipsmart.ai – AI-Powered Real Estate Flipping Guide  
 Educational agent that helps users understand real estate investment and guides you through the deals.
+
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/b855aabb-739a-4ffd-9fd3-e8287b71ebf9" />
 
 
