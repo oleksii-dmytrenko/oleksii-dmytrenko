@@ -22,30 +22,6 @@ I'm a builder. Over 10 years of experience turning ideas into scalable software,
 
 ---
 
-## 💼 Experience Highlights
-
-### 🔹 Propagentix AI | *AI Developer* (Apr 2025 – now)
-- Built **Flipsmart.ai**, an AI-driven learning agent for real estate flipping.
-- Developed **Uplifta.ai**, a staging platform using LLMs + Diffusion models.
-- Stack: React, FastAPI, OpenAI API, LangChain, AWS
-
-### 🔹 VirtueTraffic | *R&D Engineer* (Apr 2023 – Dec 2024)
-- Managed 1.5M daily search queries & built ingestion from 20+ APIs.
-- Deployed scalable ML pipelines for sentiment classification.
-- Stack: Node.js, LoopBack 4, MySQL, AWS, Terraform
-
-### 🔹 StreetShares / MeridianLink | *Full-stack Dev* (2019 – 2023)
-- Created a client portal that powered US government PPP programs.
-- Migrated analytics from Sisense to Tableau; modernized email system.
-- Stack: Python, React, AWS, Redis, Docker
-
-### 🔹 SandSIV | *Technical Lead – Team Lead* (2014 – 2017)
-- Led development of an AI-powered customer experience platform.
-- Boosted data processing speed 30x and unified UX with a “Super Gadget” dashboard.
-- Applied ML to extract insights from big datasets and automate CX workflows.
-- Stack: Python, Django, asyncio, MongoDB, Machine Learning, PHP/Symfony
----
-
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -94,6 +70,30 @@ Automated staging using AI-generated room makeovers with Leonardo AI.
 
 ### 📊 Traffic Sentiment Classifier  
 Scaled ML-based classifier to label traffic intent at 1M+/day volume.
+
+---
+## 💼 Experience Highlights
+
+### 🔹 Propagentix AI | *AI Developer* (Apr 2025 – now)
+- Built **Flipsmart.ai**, an AI-driven learning agent for real estate flipping.
+- Developed **Uplifta.ai**, a staging platform using LLMs + Diffusion models.
+- Stack: React, FastAPI, OpenAI API, LangChain, AWS
+
+### 🔹 VirtueTraffic | *R&D Engineer* (Apr 2023 – Dec 2024)
+- Managed 1.5M daily search queries & built ingestion from 20+ APIs.
+- Deployed scalable ML pipelines for sentiment classification.
+- Stack: Node.js, LoopBack 4, MySQL, AWS, Terraform
+
+### 🔹 StreetShares / MeridianLink | *Full-stack Dev* (2019 – 2023)
+- Created a client portal that powered US government PPP programs.
+- Migrated analytics from Sisense to Tableau; modernized email system.
+- Stack: Python, React, AWS, Redis, Docker
+
+### 🔹 SandSIV | *Technical Lead – Team Lead* (2014 – 2017)
+- Led development of an AI-powered customer experience platform.
+- Boosted data processing speed 30x and unified UX with a “Super Gadget” dashboard.
+- Applied ML to extract insights from big datasets and automate CX workflows.
+- Stack: Python, Django, asyncio, MongoDB, Machine Learning, PHP/Symfony
 
 ---
 
