@@ -66,10 +66,15 @@ I'm a builder. Over 10 years of experience turning ideas into scalable software,
 </p>
 
 **AI Tools:** LangChain, LLMs, Diffusion Models, OpenAI API, Context design
+
 **Languages:** Python, TypeScript
-**Frameworks:** FastAPI, React  
-**Infra:** AWS, Docker, Terraform  
-**DBs:** SQL, MongoDB, Redis  
+
+**Frameworks:** FastAPI, React
+
+**Infra:** AWS, Docker, Terraform
+
+**DBs:** SQL, MongoDB, Redis
+
 **Others:** Git, Bash, CI/CD, Auth0, Retool  
 
 ---
@@ -77,7 +82,9 @@ I'm a builder. Over 10 years of experience turning ideas into scalable software,
 ## 🧪 Projects Worth Mentioning
 
 ### 🧠 Flipsmart.ai – AI-Powered Real Estate Flipping Guide  
-Educational agent that helps users understand real estate investment.
+Educational agent that helps users understand real estate investment and guides you through the deals.
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/b855aabb-739a-4ffd-9fd3-e8287b71ebf9" />
+
 
 ### 🎨 Uplifta.ai – AI Virtual Staging Platform  
 Automated staging using AI-generated room makeovers with Leonardo AI.
